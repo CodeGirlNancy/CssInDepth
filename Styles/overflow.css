@@ -1,0 +1,39 @@
+.visible{
+    width: 300px;
+    height: 90px;
+    background-color: violet;
+    overflow: visible;
+    position: relative;
+}
+.hidden{
+    width: 300px;
+    height: 90px;
+    background-color: blueviolet;
+    overflow: hidden;
+}
+.scroll{
+    overflow: scroll;
+    width: 300px;
+    height: 90px;
+    background-color:palevioletred 
+}
+.-x{
+    overflow: auto;
+    width: 300px;
+    height: 90px;
+    background-color:brown
+    
+}
+.-y{
+    overflow: auto;
+    width: 300px;
+    height: 90px;
+    background-color:aqua
+   
+}
+.auto{
+    width: 300px;
+    height: 90px;
+    background-color: lawngreen;
+    overflow: auto;
+}

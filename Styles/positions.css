@@ -1,0 +1,42 @@
+.relative{
+    position: relative;
+    width: 500px;
+    border: 5px solid lightskyblue;
+    height: 300px;
+}
+.absolute{
+    position: absolute;
+    border: 5px dotted blue;
+    right: 0px;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: orangered;
+}
+.bottom-left{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.top-left{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.top-right{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+.bottom-right{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+.center{
+    position: absolute;
+    top: 50px ;
+    left: 50px;
+    transform: translate(-50%,  -50%);
+}

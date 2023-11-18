@@ -1,0 +1,35 @@
+.none{
+    display: none;
+    color: yellow;
+
+}
+.inline{
+    display: inline;
+    color: red;
+}
+.block{
+    display: block;
+    color: aqua;
+}
+.flex{
+    display: flex;
+    color: blueviolet;
+}
+.grid{
+    display: grid;
+    color: crimson;
+}
+.block{
+    display: block;
+    text-decoration: dotted;
+    color: darkblue;
+    text-align: left;
+    text-transform: uppercase;
+}
+.inline{
+    display: inline;
+    text-decoration: dashed;
+    color: chartreuse;
+    text-align: center;
+    text-transform: inherit;
+}

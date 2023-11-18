@@ -1,0 +1,43 @@
+.left-align{
+       text-align: left;
+       text-shadow: 2px 2px;
+       color: purple;
+}
+.right-align{
+    text-align: right;
+    text-decoration: underline;
+    color: darkblue;
+
+}
+.center{
+      text-align: center;
+      color: blue;
+
+}
+.justified{
+    text-align: justify;
+    color: crimson;
+
+}
+.yellow{
+    color: yellow;
+    text-shadow: 2px  2px darkgreen;
+
+}
+.green{
+    color: green;
+    text-indent: 40px;
+    letter-spacing: 5px;
+}
+.red{
+    color: red;
+    text-decoration: wavy;
+
+}
+.maroon{
+    color: maroon;
+    text-decoration: overline;
+}
+body{
+    background-color: hotpink;
+}
